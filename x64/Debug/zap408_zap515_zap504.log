@@ -1,0 +1,3 @@
+﻿  zap408_zap515_zap504.cpp
+C:\Users\DSI209\source\repos\zap408_zap515_zap504\ZAP408_ZAP504_ZAP515_PilasColas\zap408_zap515_zap504.cpp(19,38): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  zap408_zap515_zap504.vcxproj -> C:\Users\DSI209\source\repos\zap408_zap515_zap504\ZAP408_ZAP504_ZAP515_PilasColas\x64\Debug\zap408_zap515_zap504.exe
